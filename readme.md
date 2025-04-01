@@ -25,3 +25,11 @@ If you want to run the app locally, follow these steps:
    ```sh
    git clone https://github.com/your-repository.git
    cd your-repository
+
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+
+3. Run:
+   ```sh
+   streamlit 1_🏠_home.py
